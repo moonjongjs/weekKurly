@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weekKurly/static/css/main.72b8c249.css",
+    "main.js": "/weekKurly/static/js/main.02fcfe89.js",
+    "index.html": "/weekKurly/index.html",
+    "static/media/icon_check_off.svg": "/weekKurly/static/media/icon_check_off.123d49c45255401f31f6.svg",
+    "static/media/icon_check_on.svg": "/weekKurly/static/media/icon_check_on.1269cbc67aca7cce360a.svg",
+    "static/media/icon_dot.svg": "/weekKurly/static/media/icon_dot.f1c4a62d9156b1631e23.svg",
+    "main.72b8c249.css.map": "/weekKurly/static/css/main.72b8c249.css.map",
+    "main.02fcfe89.js.map": "/weekKurly/static/js/main.02fcfe89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b8c249.css",
+    "static/js/main.02fcfe89.js"
+  ]
+}
